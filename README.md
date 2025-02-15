@@ -12,7 +12,8 @@ Author Geißendörfer et al.,
 
 
 [![DOI](https://zenodo.org/badge/932272098.svg)](https://doi.org/10.5281/zenodo.14871444)
-![Static Badge](https://img.shields.io/badge/10.1109%2FOJIM.2024.3449936-red?style=flat&logo=doi&logoColor=white&labelColor=black&link=https%3A%2F%2Fdoi.org%2F10.1109%2FOJIM.2024.3449936)
+[![Static Badge](https://img.shields.io/badge/10.1109%2FOJIM.2024.3449936-red?style=flat&logo=doi&logoColor=white&labelColor=black)](https://doi.org/10.1109/OJIM.2024.3449936)
+
 
 
 

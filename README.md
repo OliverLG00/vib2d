@@ -8,5 +8,7 @@ Paper: ![Combining LiDAR and Time-Domain Frequency Analysis for Enhanced Spatial
 
 
 [![DOI](https://zenodo.org/badge/932272098.svg)](https://doi.org/10.5281/zenodo.14871444)
+**Citation:**  
+Author Geißendörfer et al., *Combining LiDAR and Time-Domain*, IEEE OJIM, 2024.
 [DOI: 10.1109/OJIM.2024.3449936](https://doi.org/10.1109/OJIM.2024.3449936)
 
